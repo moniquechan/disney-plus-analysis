@@ -36,5 +36,8 @@ The purpose of this project is to extract interesting information from the data 
 | s2   | Movie  | Ernest Saves Christmas   | John Cherry |Jim Varney, Noelle Parker, Douglas Seale   | | November 26, 2021   | 1988 | PG   | 91 min   | Comedy   | Santa Claus passes his magic bag to a new St. Nic. |
 | s3   | Movie  | Ice Age: A Mammoth Christmas   | Karen Disher | Raymond Albert Romano, John Leguizamo, Denis Leary, Queen Latifah   | United States | November 26, 2021   | 2011 | TV-G   | 23 min   | Animation, Comedy, Family   | Sid the Sloth is on Santa's naughty list. |
 
+### Data Visualizations
+The visualizations can be found on my [Tableau Public Dashboard](https://public.tableau.com/app/profile/monique.chan/viz/DisneyPlusAnalysis/Dashboard1)
+
 ## Contact
 * Feel free to contact me if you have any questions about my process!
